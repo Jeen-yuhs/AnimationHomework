@@ -2378,6 +2378,7 @@ MonoBehaviour:
   _animator: {fileID: 587206738}
   _danceButton: {fileID: 1521733823}
   _movementSlider: {fileID: 1345531404}
+  _jumpButton: {fileID: 1503490531}
 --- !u!4 &1753193618
 Transform:
   m_ObjectHideFlags: 0
